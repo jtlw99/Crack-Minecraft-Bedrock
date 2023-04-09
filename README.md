@@ -1,18 +1,27 @@
 # Crack Minecraft Bedrock with easy 👍
 
-Cracked file for minecraft Bedrock
-
-[Note: please use this on your own risk, im not responsible for any problems!]
+**Note: please use this on your own risk, im not responsible for any problems!**
 
 ## ✨ Features
 
-- idk what to write, it just cracks minecraft bedrock edition
+- ✅ Crack Minecraft Bedrock Edition
+
+## 💻 Tested on
+
+- ✅ Windows 10
+- ✅ Windows 11 21H2
+
+**❗Need contributor to test it on Windows 11 22H2**
 
 ## 💁‍♀️ How to use
 
-- download the files from this repo
-- download minecraft trial edition
-- execute `InstallTakeOwnership.reg` file
-- upload the file from `Upload the DLL file inside System32` to `./System32` and upload file from `Upload the DLL file inside SysWOW64` to `./SysWOW64`
-- start minecraft and it should crack the game
+- Download the files from this repo
+- Download Minecraft Trial Edition from the [Microsoft Store](https://apps.microsoft.com/store/detail/minecraft-for-windows/9nblggh2jhxj?hl=en-us&gl=us)
+- Execute `InstallTakeOwnership.reg` file
+- Upload the file from `Upload the DLL file inside System32` to `./System32` and upload file from `Upload the DLL file inside SysWOW64` to `./SysWOW64`
+- Launch Minecraft
 - Enjoy!
+
+## If it stucks at Mojang loading screen
+
+- **Relaunch Minecraft**
