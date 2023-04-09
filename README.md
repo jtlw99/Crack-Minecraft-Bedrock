@@ -1,6 +1,6 @@
-# Minecraft-bedrock-Cracked
+# Crack Minecraft Bedrock with easy 👍
 
-Cracked file for minecraft bedrock edition
+Cracked file for minecraft Bedrock
 
 [Note: please use this on your own risk, im not responsible for any problems!]
 
@@ -15,4 +15,4 @@ Cracked file for minecraft bedrock edition
 - execute `InstallTakeOwnership.reg` file
 - upload the file from `Upload the DLL file inside System32` to `./System32` and upload file from `Upload the DLL file inside SysWOW64` to `./SysWOW64`
 - start minecraft and it should crack the game
-- thats it i guess
+- Enjoy!
