@@ -22,6 +22,6 @@
 - Launch Minecraft
 - Enjoy!
 
-## If it stucks at Mojang loading screen
+## 🐛 Bugs
 
-- **Relaunch Minecraft**
+- **If stuck at Mojang loading screen** `Relaunch Minecraft`
