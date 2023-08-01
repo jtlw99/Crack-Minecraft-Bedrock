@@ -24,3 +24,5 @@
 ## 🐛 Bugs
 
 - **If stuck at Mojang loading screen** `Relaunch Minecraft`
+
+###### *Updated: Aug 1 2023
