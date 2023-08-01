@@ -1,4 +1,3 @@
-<a href="https://nogithub.codeberg.page"><img src="https://nogithub.codeberg.page/badge.svg" alt="Please don't upload to GitHub"></a>
 # Crack Minecraft Bedrock with easy 👍
 
 **Note: please use this on your own risk, im not responsible for any problems!**
@@ -11,8 +10,7 @@
 
 - ✅ Windows 10
 - ✅ Windows 11 21H2
-
-**❗Need contributor to test it on Windows 11 22H2**
+- ✅ Windows 11 22H2 (Thanks to **Ezekiel Ariola**)
 
 ## 💁‍♀️ How to use
 
