@@ -29,3 +29,7 @@
 ![Nội dung đoạn văn bản của bạn](https://github.com/jtlw99/Crack-Minecraft-Bedrock/assets/93564256/8ccefa90-70b7-4a11-aa74-85b803d4a6a6)
 
 ###### *Updated: Dec 15 2023
+
+ <p align="center">
+<img alt="Static Badge" src="https://img.shields.io/badge/JT_Studio-Verified-green">
+  </p>
