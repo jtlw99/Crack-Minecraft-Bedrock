@@ -11,6 +11,7 @@
 - ✅ Windows 10
 - ✅ Windows 11 21H2
 - ✅ Windows 11 22H2 (Thanks to **Ezekiel Ariola**)
+- ✅ ReviOS 11 23.09
 
 ## 💁‍♀️ How to use
 
@@ -25,4 +26,6 @@
 
 - **If stuck at Mojang loading screen** `Relaunch Minecraft`
 
-###### *Updated: Aug 1 2023
+![Nội dung đoạn văn bản của bạn](https://github.com/jtlw99/Crack-Minecraft-Bedrock/assets/93564256/8ccefa90-70b7-4a11-aa74-85b803d4a6a6)
+
+###### *Updated: Dec 15 2023
