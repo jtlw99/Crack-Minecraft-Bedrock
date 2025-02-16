@@ -11,6 +11,8 @@
 - ✅ Windows 10
 - ✅ Windows 11 21H2
 - ✅ Windows 11 22H2 (Thanks to **Ezekiel Ariola**)
+- ✅ Windows 11 23H2
+- ✅ Windows 11 24H2
 - ✅ ReviOS 11 23.09
 
 ## 💁‍♀️ How to use
@@ -25,10 +27,11 @@
 ## 🐛 Bugs
 
 - **If stuck at Mojang loading screen** `Relaunch Minecraft`
+- **If one day its randomly doesn't work** `Redo "How to use"`
 
 ![Nội dung đoạn văn bản của bạn](https://github.com/jtlw99/Crack-Minecraft-Bedrock/assets/93564256/8ccefa90-70b7-4a11-aa74-85b803d4a6a6)
 
-###### *Updated: Dec 15 2023
+###### *Updated: Feb 16 2025
 
  <p align="center">
 <img alt="Static Badge" src="https://img.shields.io/badge/JT_Studio-Verified-green">
