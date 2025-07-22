@@ -13,5 +13,5 @@ interruptions resulting from the use or misuse of our products.*
 >  - You may not impersonate KangarooLeaks dev(s) or falsely claim association with our software.
 
 
->  ▪ Copyright (c) 2024 KangarooLeaks
+>  ▪ Copyright (c) 2025 KangarooLeaks
 >  <br>▪ Developed by @Kamerzystanasyt
