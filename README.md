@@ -1,10 +1,14 @@
-# Crack Minecraft Bedrock with easy 👍
+# Play Minecraft Bedrock for free 👍
 
-**Note: please use this on your own risk, im not responsible for any problems!**
+**⚠ Disclaimer: 
+This is a personal project provided mainly for educational and archival purposes only.
+Use at your own discretion. I take no responsibility for how this is used.**
 
 ## ✨ Features
 
-- ✅ Crack Minecraft Bedrock Edition
+- ✅ Launch Minecraft Bedrock Edition without a license
+- ✅ Join servers and play multiplayer
+- ✅ Addons and custom skins are supported
 
 ## 💻 Tested on
 
@@ -17,22 +21,25 @@
 
 ## 💁‍♀️ How to use
 
-- Download the files from this repo
-- Download Minecraft Trial Edition from the [Microsoft Store](https://apps.microsoft.com/store/detail/minecraft-for-windows/9nblggh2jhxj?hl=en-us&gl=us)
-- Execute `InstallTakeOwnership.reg` file
-- Upload the file from `Upload the DLL file inside System32` to `./System32` and upload file from `Upload the DLL file inside SysWOW64` to `./SysWOW64`
-- Launch Minecraft
+- Download the executable from Releases,
+- Download Minecraft Trial Edition from the [Microsoft Store](https://apps.microsoft.com/store/detail/minecraft-for-windows/9nblggh2jhxj?hl=en-us&gl=us),
+- Execute `InstallTakeOwnership.reg` file,
+- Run the patcher from Releases,
+- Launch Minecraft,
 - Enjoy!
 
 ## 🐛 Bugs
 
 - **If stuck at Mojang loading screen** `Relaunch Minecraft`
 - **If one day its randomly doesn't work** `Redo "How to use"`
+  
+## 📝 Last Update: July 22, 2025
 
-![Nội dung đoạn văn bản của bạn](https://github.com/jtlw99/Crack-Minecraft-Bedrock/assets/93564256/8ccefa90-70b7-4a11-aa74-85b803d4a6a6)
 
-###### *Updated: Feb 16 2025
+## 💬 Notes
+This project is shared "as is". 
+I do not encourage misuse, nor do I offer support for any issues caused.
+Respect the terms of any software you use.
 
- <p align="center">
-<img alt="Static Badge" src="https://img.shields.io/badge/JT_Studio-Verified-green">
-  </p>
+![japididi](https://github.com/jtlw99/Crack-Minecraft-Bedrock/assets/93564256/8ccefa90-70b7-4a11-aa74-85b803d4a6a6)
+<p align="center"> <img alt="Static Badge" src="https://img.shields.io/badge/JT_Studio-Verified-green"> </p>
