@@ -33,7 +33,7 @@ Use at your own discretion. I take no responsibility for how this is used.**
 - **If stuck at Mojang loading screen** `Relaunch Minecraft`
 - **If one day its randomly doesn't work** `Redo "How to use"`
   
-## 📝 Updated: Feb 16, 2025
+## 📝 Updated: July 22, 2025
 <p align="center"> <img alt="Static Badge" src="https://img.shields.io/badge/JT_Studio-Verified-green"> </p>
 
 ## 💬 Notes
@@ -42,7 +42,3 @@ I do not encourage misuse, nor do I offer support for any issues caused.
 Respect the terms of any software you use.
 
 ![japididi](https://github.com/jtlw99/Crack-Minecraft-Bedrock/assets/93564256/8ccefa90-70b7-4a11-aa74-85b803d4a6a6)
-
- <p align="center">
-<img alt="Static Badge" src="https://img.shields.io/badge/JT_Studio-Verified-green">
-  </p>
