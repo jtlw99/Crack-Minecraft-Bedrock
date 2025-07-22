@@ -14,4 +14,4 @@ interruptions resulting from the use or misuse of our products.*
 
 
 >  ▪ Copyright (c) 2025 KangarooLeaks
->  <br>▪ Developed by @Kamerzystanasyt
+>  <br>▪ Developed by @Kamerzystanasyt (patcher) & jtlw99 (dlls)
