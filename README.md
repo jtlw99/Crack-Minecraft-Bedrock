@@ -1,4 +1,5 @@
-# Crack Minecraft Bedrock with easy 👍
+# Crack Minecraft Bedrock with easy 👍 (DOESNT WORK ANYMORE)
+
 
 **Note: please use this on your own risk, im not responsible for any problems!**
 
@@ -31,7 +32,7 @@
 
 ![Nội dung đoạn văn bản của bạn](https://github.com/jtlw99/Crack-Minecraft-Bedrock/assets/93564256/8ccefa90-70b7-4a11-aa74-85b803d4a6a6)
 
-###### *Updated: Feb 16 2025
+###### *Updated: Dec 4 2025
 
  <p align="center">
 <img alt="Static Badge" src="https://img.shields.io/badge/JT_Studio-Verified-green">
