@@ -1,4 +1,4 @@
-# Crack Minecraft Bedrock with easy 👍 (DOESNT WORK ANYMORE)
+(DOESNT WORK ANYMORE)
 
 
 **Note: please use this on your own risk, im not responsible for any problems!**
